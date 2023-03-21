@@ -1,0 +1,8 @@
+bin
+build
+.cache
+
+include/Config.h
+
+.DS_Store
+
